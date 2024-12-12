@@ -1,0 +1,41 @@
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Results
+bin/
+obj/
+out/
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+*.dll
+*.exe
+
+# Backup Files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.tmp
+*.log
+*.svclog
+
+# Configurations
+*.config
+*.json
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# System Files
+.DS_Store
+Thumbs.db
